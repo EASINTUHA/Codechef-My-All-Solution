@@ -1,6 +1,6 @@
 # CodeChef 0-500 Rating Solutions in C++
 
-Welcome to the CodeChef 0-500 Rating Solutions repository! This repository contains C++ solutions for 115 CodeChef problems with difficulty ratings between basic to advanced. These solutions are designed to help you understand different approaches and improve your problem-solving skills.
+Welcome to the CodeChef basic to advanced learning and practice Rating Solutions repository! This repository contains C and C++ solutions for CodeChef problems with difficulty ratings between basic to advanced. These solutions are designed to help you understand different approaches and improve your problem-solving skills.
 
 ## Overview
 
